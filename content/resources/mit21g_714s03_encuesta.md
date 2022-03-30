@@ -6,6 +6,7 @@ description: Classroom activity where students first make individual judgments a
   around the classroom.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21g-714-spanish-for-bilingual-students-spring-2003/d92024283c4f596c35bf8dab19d0126d_MIT21G_714S03_encuesta.pdf
 file_type: application/pdf
+parent_uid: 80e6f0e3-741e-7638-eeed-b87daa74547e
 resourcetype: Document
 title: Encuesta
 uid: d9202428-3c4f-596c-35bf-8dab19d0126d

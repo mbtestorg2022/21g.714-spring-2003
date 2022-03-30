@@ -6,6 +6,7 @@ description: Classroom activity where students first make individual judgments a
   around the classroom.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21g-714-spanish-for-bilingual-students-spring-2003/4bf64ca7da2a5fc417960e73ef10eabc_MIT21G_714S03_actividad_pr.pdf
 file_type: application/pdf
+parent_uid: 80e6f0e3-741e-7638-eeed-b87daa74547e
 resourcetype: Document
 title: "Actividad para el primer d\xEDa de clases"
 uid: 4bf64ca7-da2a-5fc4-1796-0e73ef10eabc

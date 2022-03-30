@@ -6,6 +6,7 @@ description: Classroom activity where students first make individual judgments a
   around the classroom.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21g-714-spanish-for-bilingual-students-spring-2003/5b5612e948cadf3373b015ef5ebe0fa7_MIT21G_714S03_hispanolatin.pdf
 file_type: application/pdf
+parent_uid: 80e6f0e3-741e-7638-eeed-b87daa74547e
 resourcetype: Document
 title: Importancia para ser latino/hispano. Poner en orden descendiente.
 uid: 5b5612e9-48ca-df33-73b0-15ef5ebe0fa7
