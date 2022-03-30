@@ -4,20 +4,168 @@ title: Assignments
 uid: 80e6f0e3-741e-7638-eeed-b87daa74547e
 ---
 
-| CLASE | TAREA | ARCHIVO |
-| --- | --- | --- |
-| 1 | _La lengua que heredamos_, caps. 1 y 2; _Español escrito_, p. 25-30, 34-42. | &nbsp; |
-| 2 | _La lengua que heredamos_, cap. 3; _Español escrito_, p. 46- 48, 56-62. | [Tarea 1](#preparar_miniproyecto_) |
-| 3 | _La lengua que heredamos_, caps. 4, 5 y Repaso I. | [Tarea 2](#Redactar_Composici_n) |
-| 4 | _La lengua que heredamos_, cap. 6; _Español escrito_, 72-78, 82-85, 93-97. | [Tarea 3](#Prepararse_para_Examen) |
-| 5 | _La lengua que heredamos_, cap. 7, 8, 9; _Español escrito_, 104-117, 120-129; pensar en tema para su **Informe Oral.** | &nbsp; |
-| 6 | _La lengua que heredamos_, caps. 10, 11, 12; _Español escrito_, 133-140, 151-163, 166-174. | &nbsp; |
-| 7 | _La lengua que heredamos_, cap. 13. | [Tarea 4](#leer_cuentos_fotocopiadas) |
-| 8 | _La lengua que heredamos_, caps. 14, 15 y Repaso III; _Español escrito_, 186-197, 204-219. | &nbsp; |
-| 9 | _La lengua que heredamos_, caps. 16, 17, 18; _Español escrito_, 228-240, 253-261; prepararse para **Examen Oral.** | &nbsp; |
-| 10 | _La lengua que heredamos_, caps. 19, 20 y Repaso IV; _Español escrito_, 261-268, 270-280. | &nbsp; |
-| 11 | _La lengua que heredamos_, caps. 21, 22 y Repaso V; _Español escrito_, 289-300,306-316. | [Tarea 5](#redactar_Composici_n__2_p_gs___) |
-| 12 | acabar **Proyecto Mayor** |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+CLASE
+{{< thclose >}}
+{{< thopen >}}
+TAREA
+{{< thclose >}}
+{{< thopen >}}
+ARCHIVO
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+_La lengua que heredamos_, caps. 1 y 2; _Español escrito_, p. 25-30, 34-42.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+_La lengua que heredamos_, cap. 3; _Español escrito_, p. 46- 48, 56-62.
+{{< tdclose >}}
+{{< tdopen >}}
+[Tarea 1](#preparar_miniproyecto_)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+_La lengua que heredamos_, caps. 4, 5 y Repaso I.
+{{< tdclose >}}
+{{< tdopen >}}
+[Tarea 2](#Redactar_Composici_n)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+_La lengua que heredamos_, cap. 6; _Español escrito_, 72-78, 82-85, 93-97.
+{{< tdclose >}}
+{{< tdopen >}}
+[Tarea 3](#Prepararse_para_Examen)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+_La lengua que heredamos_, cap. 7, 8, 9; _Español escrito_, 104-117, 120-129; pensar en tema para su **Informe Oral.**
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+_La lengua que heredamos_, caps. 10, 11, 12; _Español escrito_, 133-140, 151-163, 166-174.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+_La lengua que heredamos_, cap. 13.
+{{< tdclose >}}
+{{< tdopen >}}
+[Tarea 4](#leer_cuentos_fotocopiadas)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+_La lengua que heredamos_, caps. 14, 15 y Repaso III; _Español escrito_, 186-197, 204-219.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+_La lengua que heredamos_, caps. 16, 17, 18; _Español escrito_, 228-240, 253-261; prepararse para **Examen Oral.**
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+_La lengua que heredamos_, caps. 19, 20 y Repaso IV; _Español escrito_, 261-268, 270-280.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+_La lengua que heredamos_, caps. 21, 22 y Repaso V; _Español escrito_, 289-300,306-316.
+{{< tdclose >}}
+{{< tdopen >}}
+[Tarea 5](#redactar_Composici_n__2_p_gs___)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+acabar **Proyecto Mayor**
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Tarea 1
 -------
